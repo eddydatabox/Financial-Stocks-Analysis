@@ -3,6 +3,6 @@
 
 #### I look at questions like:
   * What are daily returns like?
-  * The dates with highest and lowest returns.
-  * What stock had the most volatility?
-  * What are the correlations among the bank stock Prices?
+  * The where the dates with highest and lowest returns.
+  * What bank stock had the most volatility?
+  * What are the correlations among the different bank stocks?
